@@ -1,0 +1,72 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		CD5F06031F18D3C500988852 /* Titanic_Data_Explore.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Titanic_Data_Explore.html; path = ../../../Titanic_Data_Explore.html; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		CD5F05FC1F18D39300988852 = {
+			isa = PBXGroup;
+			children = (
+				CD5F06031F18D3C500988852 /* Titanic_Data_Explore.html */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		CD5F05FD1F18D39300988852 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0730;
+			};
+			buildConfigurationList = CD5F06001F18D39300988852 /* Build configuration list for PBXProject "jupyterhtml" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = CD5F05FC1F18D39300988852;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		CD5F06011F18D39300988852 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		CD5F06021F18D39300988852 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		CD5F06001F18D39300988852 /* Build configuration list for PBXProject "jupyterhtml" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CD5F06011F18D39300988852 /* Debug */,
+				CD5F06021F18D39300988852 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = CD5F05FD1F18D39300988852 /* Project object */;
+}
